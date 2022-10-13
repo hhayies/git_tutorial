@@ -29,3 +29,5 @@ print(x.name, x.price)
 a = 0
 if a:
     print("F")
+
+print("hello")
