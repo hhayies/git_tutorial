@@ -31,3 +31,4 @@ if a:
     print("F")
 
 print("hello")
+print("hello")
